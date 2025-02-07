@@ -1,4 +1,4 @@
 # cursor-facing-robo-spline-art
 
 #### Art:
-`robo.png`
+![Cartoonized Image](robo.png)
